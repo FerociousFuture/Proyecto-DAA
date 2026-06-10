@@ -1,0 +1,16 @@
+clave_id|nombre|tipo|alfabeto_original|tabla_sustitucion
+K01|Alfa Norte|letras|abcdefghijklmnopqrstuvwxyz|qwertyuiopasdfghjklzxcvbnm
+K02|Alfa Delta|letras|abcdefghijklmnopqrstuvwxyz|mnbvcxzlkjhgfdsapoiuytrewq
+K03|Alfa Sol|letras|abcdefghijklmnopqrstuvwxyz|phqgiumeaylnofdxjkrcvstzwb
+K04|Alfa Luna|letras|abcdefghijklmnopqrstuvwxyz|zabcdefghijklmnopqrstuvwxy
+K05|Alfa Rio|letras|abcdefghijklmnopqrstuvwxyz|zyxwvutsrqponmlkjihgfedcba
+K06|Alfa Bosque|letras|abcdefghijklmnopqrstuvwxyz|bcdefghijklmnopqrstuvwxyza
+K07|Alfa Mar|letras|abcdefghijklmnopqrstuvwxyz|lfwoayuisvkmnxpbdcrjtqegzh
+K08|Alfa Sierra|letras|abcdefghijklmnopqrstuvwxyz|eaiouypqrstbcdfghjklmnvwzx
+K09|Alfa Aurora|letras|abcdefghijklmnopqrstuvwxyz|jklmnopqrstuvwxyzabcdefghi
+K10|Alfa Niebla|letras|abcdefghijklmnopqrstuvwxyz|xoyqmcgrukswaflnthdjpzibev
+S01|Simbolo Cobre|simbolos|abcdefghijklmnopqrstuvwxyz|!@#$%^&*()_+-=[]{};:<>,.?/
+S02|Simbolo Plata|simbolos|abcdefghijklmnopqrstuvwxyz|^&*()_+-=[]{};:<>,.?/!@#$%
+S03|Simbolo Oro|simbolos|abcdefghijklmnopqrstuvwxyz|+-=[]{};:<>,.?/!@#$%^&*()_
+S04|Simbolo Jade|simbolos|abcdefghijklmnopqrstuvwxyz|};:<>,.?/!@#$%^&*()_+-=[]{
+S05|Simbolo Obsidiana|simbolos|abcdefghijklmnopqrstuvwxyz|.?/!@#$%^&*()_+-=[]{};:<>,

@@ -1,0 +1,1001 @@
+mensaje_id|remitente|prioridad|fecha|clave_id|texto_original|texto_cifrado
+1|Ana|media|2026-02-01|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+2|Bruno|baja|2026-02-02|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+3|Carla|alta|2026-02-03|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+4|Diego|media|2026-02-04|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+5|Elena|baja|2026-02-05|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+6|Fernando|alta|2026-02-06|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+7|Gabriela|media|2026-02-07|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+8|Hector|baja|2026-02-08|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+9|Isabel|alta|2026-02-09|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+10|Jorge|media|2026-02-10|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+11|Karla|alta|2026-02-11|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+12|Luis|media|2026-02-12|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+13|Mariana|baja|2026-02-13|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+14|Nicolas|alta|2026-02-14|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+15|Olivia|media|2026-02-15|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+16|Pablo|baja|2026-02-16|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+17|Raquel|alta|2026-02-17|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+18|Sergio|media|2026-02-18|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+19|Teresa|baja|2026-02-19|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+20|Ulises|alta|2026-02-20|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+21|Valeria|media|2026-02-21|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+22|Walter|alta|2026-02-22|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+23|Ximena|media|2026-02-23|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+24|Yolanda|baja|2026-02-24|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+25|Zaira|alta|2026-02-25|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+26|Adrian|media|2026-02-26|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+27|Beatriz|baja|2026-02-27|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+28|Cesar|alta|2026-02-28|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+29|Daniela|media|2026-03-01|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+30|Emilio|baja|2026-03-02|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+31|Fabiola|alta|2026-03-03|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+32|Gustavo|media|2026-03-04|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+33|Helena|alta|2026-03-05|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+34|Ivan|media|2026-03-06|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+35|Julieta|baja|2026-03-07|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+36|Kevin|alta|2026-03-08|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+37|Laura|media|2026-03-09|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+38|Mateo|baja|2026-03-10|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+39|Natalia|alta|2026-03-11|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+40|Oscar|media|2026-03-12|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+41|Patricia|baja|2026-03-13|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+42|Rafael|alta|2026-03-14|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+43|Silvia|media|2026-03-15|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+44|Tomas|alta|2026-03-16|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+45|Uriel|media|2026-03-17|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+46|Veronica|baja|2026-03-18|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+47|Wendy|alta|2026-03-19|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+48|Xavier|media|2026-03-20|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+49|Yadira|baja|2026-03-21|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+50|Zoila|alta|2026-03-22|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+51|Ana|media|2026-03-23|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+52|Bruno|baja|2026-03-24|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+53|Carla|alta|2026-03-25|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+54|Diego|media|2026-03-26|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+55|Elena|alta|2026-03-27|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+56|Fernando|media|2026-03-28|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+57|Gabriela|baja|2026-03-29|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+58|Hector|alta|2026-03-30|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+59|Isabel|media|2026-03-31|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+60|Jorge|baja|2026-04-01|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+61|Karla|alta|2026-04-02|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+62|Luis|media|2026-04-03|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+63|Mariana|baja|2026-04-04|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+64|Nicolas|alta|2026-04-05|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+65|Olivia|media|2026-04-06|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+66|Pablo|alta|2026-04-07|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+67|Raquel|media|2026-04-08|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+68|Sergio|baja|2026-04-09|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+69|Teresa|alta|2026-04-10|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+70|Ulises|media|2026-04-11|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+71|Valeria|baja|2026-04-12|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+72|Walter|alta|2026-04-13|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+73|Ximena|media|2026-04-14|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+74|Yolanda|baja|2026-04-15|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+75|Zaira|alta|2026-04-16|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+76|Adrian|media|2026-04-17|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+77|Beatriz|alta|2026-04-18|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+78|Cesar|media|2026-04-19|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+79|Daniela|baja|2026-04-20|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+80|Emilio|alta|2026-04-21|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+81|Fabiola|media|2026-04-22|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+82|Gustavo|baja|2026-04-23|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+83|Helena|alta|2026-04-24|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+84|Ivan|media|2026-04-25|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+85|Julieta|baja|2026-04-26|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+86|Kevin|alta|2026-04-27|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+87|Laura|media|2026-04-28|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+88|Mateo|alta|2026-04-29|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+89|Natalia|media|2026-04-30|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+90|Oscar|baja|2026-05-01|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+91|Patricia|alta|2026-05-02|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+92|Rafael|media|2026-05-03|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+93|Silvia|baja|2026-05-04|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+94|Tomas|alta|2026-05-05|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+95|Uriel|media|2026-05-06|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+96|Veronica|baja|2026-05-07|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+97|Wendy|alta|2026-05-08|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+98|Xavier|media|2026-05-09|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+99|Yadira|alta|2026-05-10|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+100|Zoila|media|2026-05-11|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+101|Ana|baja|2026-05-12|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+102|Bruno|alta|2026-05-13|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+103|Carla|media|2026-05-14|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+104|Diego|baja|2026-05-15|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+105|Elena|alta|2026-05-16|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+106|Fernando|media|2026-05-17|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+107|Gabriela|baja|2026-05-18|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+108|Hector|alta|2026-05-19|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+109|Isabel|media|2026-05-20|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+110|Jorge|alta|2026-05-21|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+111|Karla|media|2026-05-22|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+112|Luis|baja|2026-05-23|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+113|Mariana|alta|2026-05-24|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+114|Nicolas|media|2026-05-25|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+115|Olivia|baja|2026-05-26|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+116|Pablo|alta|2026-05-27|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+117|Raquel|media|2026-05-28|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+118|Sergio|baja|2026-05-29|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+119|Teresa|alta|2026-05-30|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+120|Ulises|media|2026-05-31|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+121|Valeria|alta|2026-06-01|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+122|Walter|media|2026-06-02|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+123|Ximena|baja|2026-06-03|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+124|Yolanda|alta|2026-06-04|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+125|Zaira|media|2026-06-05|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+126|Adrian|baja|2026-06-06|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+127|Beatriz|alta|2026-06-07|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+128|Cesar|media|2026-06-08|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+129|Daniela|baja|2026-06-09|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+130|Emilio|alta|2026-06-10|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+131|Fabiola|media|2026-06-11|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+132|Gustavo|alta|2026-06-12|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+133|Helena|media|2026-06-13|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+134|Ivan|baja|2026-06-14|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+135|Julieta|alta|2026-06-15|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+136|Kevin|media|2026-06-16|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+137|Laura|baja|2026-06-17|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+138|Mateo|alta|2026-06-18|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+139|Natalia|media|2026-06-19|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+140|Oscar|baja|2026-06-20|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+141|Patricia|alta|2026-06-21|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+142|Rafael|media|2026-06-22|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+143|Silvia|alta|2026-06-23|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+144|Tomas|media|2026-06-24|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+145|Uriel|baja|2026-06-25|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+146|Veronica|alta|2026-06-26|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+147|Wendy|media|2026-06-27|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+148|Xavier|baja|2026-06-28|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+149|Yadira|alta|2026-06-29|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+150|Zoila|media|2026-06-30|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+151|Ana|baja|2026-07-01|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+152|Bruno|alta|2026-07-02|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+153|Carla|media|2026-07-03|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+154|Diego|alta|2026-07-04|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+155|Elena|media|2026-07-05|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+156|Fernando|baja|2026-07-06|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+157|Gabriela|alta|2026-07-07|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+158|Hector|media|2026-07-08|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+159|Isabel|baja|2026-07-09|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+160|Jorge|alta|2026-07-10|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+161|Karla|media|2026-07-11|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+162|Luis|baja|2026-07-12|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+163|Mariana|alta|2026-07-13|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+164|Nicolas|media|2026-07-14|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+165|Olivia|alta|2026-07-15|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+166|Pablo|media|2026-07-16|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+167|Raquel|baja|2026-07-17|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+168|Sergio|alta|2026-07-18|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+169|Teresa|media|2026-07-19|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+170|Ulises|baja|2026-07-20|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+171|Valeria|alta|2026-07-21|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+172|Walter|media|2026-07-22|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+173|Ximena|baja|2026-07-23|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+174|Yolanda|alta|2026-07-24|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+175|Zaira|media|2026-07-25|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+176|Adrian|alta|2026-07-26|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+177|Beatriz|media|2026-07-27|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+178|Cesar|baja|2026-07-28|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+179|Daniela|alta|2026-07-29|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+180|Emilio|media|2026-07-30|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+181|Fabiola|baja|2026-07-31|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+182|Gustavo|alta|2026-08-01|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+183|Helena|media|2026-08-02|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+184|Ivan|baja|2026-08-03|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+185|Julieta|alta|2026-08-04|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+186|Kevin|media|2026-08-05|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+187|Laura|alta|2026-08-06|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+188|Mateo|media|2026-08-07|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+189|Natalia|baja|2026-08-08|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+190|Oscar|alta|2026-08-09|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+191|Patricia|media|2026-08-10|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+192|Rafael|baja|2026-08-11|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+193|Silvia|alta|2026-08-12|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+194|Tomas|media|2026-08-13|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+195|Uriel|baja|2026-08-14|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+196|Veronica|alta|2026-08-15|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+197|Wendy|media|2026-08-16|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+198|Xavier|alta|2026-08-17|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+199|Yadira|media|2026-08-18|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+200|Zoila|baja|2026-08-19|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+201|Ana|alta|2026-08-20|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+202|Bruno|media|2026-08-21|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+203|Carla|baja|2026-08-22|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+204|Diego|alta|2026-08-23|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+205|Elena|media|2026-08-24|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+206|Fernando|baja|2026-08-25|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+207|Gabriela|alta|2026-08-26|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+208|Hector|media|2026-08-27|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+209|Isabel|alta|2026-08-28|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+210|Jorge|media|2026-08-29|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+211|Karla|baja|2026-08-30|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+212|Luis|alta|2026-08-31|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+213|Mariana|media|2026-09-01|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+214|Nicolas|baja|2026-09-02|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+215|Olivia|alta|2026-09-03|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+216|Pablo|media|2026-09-04|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+217|Raquel|baja|2026-09-05|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+218|Sergio|alta|2026-09-06|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+219|Teresa|media|2026-09-07|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+220|Ulises|alta|2026-09-08|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+221|Valeria|media|2026-09-09|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+222|Walter|baja|2026-09-10|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+223|Ximena|alta|2026-09-11|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+224|Yolanda|media|2026-09-12|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+225|Zaira|baja|2026-09-13|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+226|Adrian|alta|2026-09-14|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+227|Beatriz|media|2026-09-15|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+228|Cesar|baja|2026-09-16|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+229|Daniela|alta|2026-09-17|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+230|Emilio|media|2026-09-18|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+231|Fabiola|alta|2026-09-19|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+232|Gustavo|media|2026-09-20|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+233|Helena|baja|2026-09-21|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+234|Ivan|alta|2026-09-22|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+235|Julieta|media|2026-09-23|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+236|Kevin|baja|2026-09-24|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+237|Laura|alta|2026-09-25|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+238|Mateo|media|2026-09-26|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+239|Natalia|baja|2026-09-27|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+240|Oscar|alta|2026-09-28|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+241|Patricia|media|2026-09-29|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+242|Rafael|alta|2026-09-30|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+243|Silvia|media|2026-10-01|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+244|Tomas|baja|2026-10-02|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+245|Uriel|alta|2026-10-03|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+246|Veronica|media|2026-10-04|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+247|Wendy|baja|2026-10-05|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+248|Xavier|alta|2026-10-06|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+249|Yadira|media|2026-10-07|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+250|Zoila|baja|2026-10-08|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+251|Ana|alta|2026-10-09|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+252|Bruno|media|2026-10-10|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+253|Carla|alta|2026-10-11|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+254|Diego|media|2026-10-12|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+255|Elena|baja|2026-10-13|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+256|Fernando|alta|2026-10-14|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+257|Gabriela|media|2026-10-15|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+258|Hector|baja|2026-10-16|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+259|Isabel|alta|2026-10-17|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+260|Jorge|media|2026-10-18|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+261|Karla|baja|2026-10-19|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+262|Luis|alta|2026-10-20|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+263|Mariana|media|2026-10-21|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+264|Nicolas|alta|2026-10-22|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+265|Olivia|media|2026-10-23|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+266|Pablo|baja|2026-10-24|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+267|Raquel|alta|2026-10-25|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+268|Sergio|media|2026-10-26|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+269|Teresa|baja|2026-10-27|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+270|Ulises|alta|2026-10-28|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+271|Valeria|media|2026-10-29|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+272|Walter|baja|2026-10-30|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+273|Ximena|alta|2026-10-31|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+274|Yolanda|media|2026-11-01|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+275|Zaira|alta|2026-11-02|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+276|Adrian|media|2026-11-03|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+277|Beatriz|baja|2026-11-04|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+278|Cesar|alta|2026-11-05|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+279|Daniela|media|2026-11-06|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+280|Emilio|baja|2026-11-07|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+281|Fabiola|alta|2026-11-08|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+282|Gustavo|media|2026-11-09|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+283|Helena|baja|2026-11-10|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+284|Ivan|alta|2026-11-11|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+285|Julieta|media|2026-11-12|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+286|Kevin|alta|2026-11-13|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+287|Laura|media|2026-11-14|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+288|Mateo|baja|2026-11-15|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+289|Natalia|alta|2026-11-16|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+290|Oscar|media|2026-11-17|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+291|Patricia|baja|2026-11-18|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+292|Rafael|alta|2026-11-19|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+293|Silvia|media|2026-11-20|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+294|Tomas|baja|2026-11-21|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+295|Uriel|alta|2026-11-22|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+296|Veronica|media|2026-11-23|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+297|Wendy|alta|2026-11-24|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+298|Xavier|media|2026-11-25|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+299|Yadira|baja|2026-11-26|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+300|Zoila|alta|2026-11-27|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+301|Ana|media|2026-11-28|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+302|Bruno|baja|2026-11-29|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+303|Carla|alta|2026-11-30|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+304|Diego|media|2026-12-01|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+305|Elena|baja|2026-12-02|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+306|Fernando|alta|2026-12-03|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+307|Gabriela|media|2026-12-04|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+308|Hector|alta|2026-12-05|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+309|Isabel|media|2026-12-06|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+310|Jorge|baja|2026-12-07|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+311|Karla|alta|2026-12-08|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+312|Luis|media|2026-12-09|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+313|Mariana|baja|2026-12-10|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+314|Nicolas|alta|2026-12-11|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+315|Olivia|media|2026-12-12|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+316|Pablo|baja|2026-12-13|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+317|Raquel|alta|2026-12-14|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+318|Sergio|media|2026-12-15|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+319|Teresa|alta|2026-12-16|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+320|Ulises|media|2026-12-17|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+321|Valeria|baja|2026-12-18|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+322|Walter|alta|2026-12-19|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+323|Ximena|media|2026-12-20|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+324|Yolanda|baja|2026-12-21|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+325|Zaira|alta|2026-12-22|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+326|Adrian|media|2026-12-23|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+327|Beatriz|baja|2026-12-24|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+328|Cesar|alta|2026-12-25|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+329|Daniela|media|2026-12-26|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+330|Emilio|alta|2026-12-27|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+331|Fabiola|media|2026-12-28|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+332|Gustavo|baja|2026-12-29|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+333|Helena|alta|2026-12-30|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+334|Ivan|media|2026-12-31|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+335|Julieta|baja|2027-01-01|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+336|Kevin|alta|2027-01-02|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+337|Laura|media|2027-01-03|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+338|Mateo|baja|2027-01-04|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+339|Natalia|alta|2027-01-05|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+340|Oscar|media|2027-01-06|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+341|Patricia|alta|2027-01-07|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+342|Rafael|media|2027-01-08|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+343|Silvia|baja|2027-01-09|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+344|Tomas|alta|2027-01-10|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+345|Uriel|media|2027-01-11|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+346|Veronica|baja|2027-01-12|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+347|Wendy|alta|2027-01-13|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+348|Xavier|media|2027-01-14|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+349|Yadira|baja|2027-01-15|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+350|Zoila|alta|2027-01-16|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+351|Ana|media|2027-01-17|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+352|Bruno|alta|2027-01-18|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+353|Carla|media|2027-01-19|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+354|Diego|baja|2027-01-20|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+355|Elena|alta|2027-01-21|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+356|Fernando|media|2027-01-22|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+357|Gabriela|baja|2027-01-23|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+358|Hector|alta|2027-01-24|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+359|Isabel|media|2027-01-25|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+360|Jorge|baja|2027-01-26|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+361|Karla|alta|2027-01-27|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+362|Luis|media|2027-01-28|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+363|Mariana|alta|2027-01-29|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+364|Nicolas|media|2027-01-30|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+365|Olivia|baja|2027-01-31|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+366|Pablo|alta|2027-02-01|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+367|Raquel|media|2027-02-02|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+368|Sergio|baja|2027-02-03|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+369|Teresa|alta|2027-02-04|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+370|Ulises|media|2027-02-05|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+371|Valeria|baja|2027-02-06|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+372|Walter|alta|2027-02-07|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+373|Ximena|media|2027-02-08|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+374|Yolanda|alta|2027-02-09|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+375|Zaira|media|2027-02-10|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+376|Adrian|baja|2027-02-11|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+377|Beatriz|alta|2027-02-12|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+378|Cesar|media|2027-02-13|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+379|Daniela|baja|2027-02-14|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+380|Emilio|alta|2027-02-15|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+381|Fabiola|media|2027-02-16|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+382|Gustavo|baja|2027-02-17|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+383|Helena|alta|2027-02-18|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+384|Ivan|media|2027-02-19|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+385|Julieta|alta|2027-02-20|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+386|Kevin|media|2027-02-21|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+387|Laura|baja|2027-02-22|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+388|Mateo|alta|2027-02-23|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+389|Natalia|media|2027-02-24|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+390|Oscar|baja|2027-02-25|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+391|Patricia|alta|2027-02-26|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+392|Rafael|media|2027-02-27|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+393|Silvia|baja|2027-02-28|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+394|Tomas|alta|2027-03-01|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+395|Uriel|media|2027-03-02|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+396|Veronica|alta|2027-03-03|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+397|Wendy|media|2027-03-04|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+398|Xavier|baja|2027-03-05|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+399|Yadira|alta|2027-03-06|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+400|Zoila|media|2027-03-07|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+401|Ana|baja|2027-03-08|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+402|Bruno|alta|2027-03-09|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+403|Carla|media|2027-03-10|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+404|Diego|baja|2027-03-11|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+405|Elena|alta|2027-03-12|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+406|Fernando|media|2027-03-13|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+407|Gabriela|alta|2027-03-14|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+408|Hector|media|2027-03-15|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+409|Isabel|baja|2027-03-16|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+410|Jorge|alta|2027-03-17|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+411|Karla|media|2027-03-18|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+412|Luis|baja|2027-03-19|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+413|Mariana|alta|2027-03-20|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+414|Nicolas|media|2027-03-21|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+415|Olivia|baja|2027-03-22|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+416|Pablo|alta|2027-03-23|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+417|Raquel|media|2027-03-24|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+418|Sergio|alta|2027-03-25|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+419|Teresa|media|2027-03-26|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+420|Ulises|baja|2027-03-27|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+421|Valeria|alta|2027-03-28|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+422|Walter|media|2027-03-29|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+423|Ximena|baja|2027-03-30|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+424|Yolanda|alta|2027-03-31|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+425|Zaira|media|2027-04-01|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+426|Adrian|baja|2027-04-02|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+427|Beatriz|alta|2027-04-03|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+428|Cesar|media|2027-04-04|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+429|Daniela|alta|2027-04-05|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+430|Emilio|media|2027-04-06|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+431|Fabiola|baja|2027-04-07|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+432|Gustavo|alta|2027-04-08|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+433|Helena|media|2027-04-09|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+434|Ivan|baja|2027-04-10|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+435|Julieta|alta|2027-04-11|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+436|Kevin|media|2027-04-12|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+437|Laura|baja|2027-04-13|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+438|Mateo|alta|2027-04-14|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+439|Natalia|media|2027-04-15|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+440|Oscar|alta|2027-04-16|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+441|Patricia|media|2027-04-17|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+442|Rafael|baja|2027-04-18|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+443|Silvia|alta|2027-04-19|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+444|Tomas|media|2027-04-20|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+445|Uriel|baja|2027-04-21|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+446|Veronica|alta|2027-04-22|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+447|Wendy|media|2027-04-23|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+448|Xavier|baja|2027-04-24|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+449|Yadira|alta|2027-04-25|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+450|Zoila|media|2027-04-26|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+451|Ana|alta|2027-04-27|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+452|Bruno|media|2027-04-28|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+453|Carla|baja|2027-04-29|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+454|Diego|alta|2027-04-30|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+455|Elena|media|2027-05-01|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+456|Fernando|baja|2027-05-02|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+457|Gabriela|alta|2027-05-03|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+458|Hector|media|2027-05-04|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+459|Isabel|baja|2027-05-05|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+460|Jorge|alta|2027-05-06|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+461|Karla|media|2027-05-07|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+462|Luis|alta|2027-05-08|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+463|Mariana|media|2027-05-09|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+464|Nicolas|baja|2027-05-10|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+465|Olivia|alta|2027-05-11|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+466|Pablo|media|2027-05-12|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+467|Raquel|baja|2027-05-13|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+468|Sergio|alta|2027-05-14|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+469|Teresa|media|2027-05-15|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+470|Ulises|baja|2027-05-16|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+471|Valeria|alta|2027-05-17|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+472|Walter|media|2027-05-18|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+473|Ximena|alta|2027-05-19|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+474|Yolanda|media|2027-05-20|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+475|Zaira|baja|2027-05-21|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+476|Adrian|alta|2027-05-22|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+477|Beatriz|media|2027-05-23|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+478|Cesar|baja|2027-05-24|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+479|Daniela|alta|2027-05-25|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+480|Emilio|media|2027-05-26|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+481|Fabiola|baja|2027-05-27|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+482|Gustavo|alta|2027-05-28|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+483|Helena|media|2027-05-29|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+484|Ivan|alta|2027-05-30|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+485|Julieta|media|2027-05-31|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+486|Kevin|baja|2027-06-01|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+487|Laura|alta|2027-06-02|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+488|Mateo|media|2027-06-03|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+489|Natalia|baja|2027-06-04|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+490|Oscar|alta|2027-06-05|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+491|Patricia|media|2027-06-06|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+492|Rafael|baja|2027-06-07|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+493|Silvia|alta|2027-06-08|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+494|Tomas|media|2027-06-09|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+495|Uriel|alta|2027-06-10|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+496|Veronica|media|2027-06-11|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+497|Wendy|baja|2027-06-12|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+498|Xavier|alta|2027-06-13|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+499|Yadira|media|2027-06-14|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+500|Zoila|baja|2027-06-15|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+501|Ana|alta|2027-06-16|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+502|Bruno|media|2027-06-17|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+503|Carla|baja|2027-06-18|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+504|Diego|alta|2027-06-19|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+505|Elena|media|2027-06-20|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+506|Fernando|alta|2027-06-21|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+507|Gabriela|media|2027-06-22|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+508|Hector|baja|2027-06-23|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+509|Isabel|alta|2027-06-24|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+510|Jorge|media|2027-06-25|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+511|Karla|baja|2027-06-26|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+512|Luis|alta|2027-06-27|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+513|Mariana|media|2027-06-28|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+514|Nicolas|baja|2027-06-29|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+515|Olivia|alta|2027-06-30|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+516|Pablo|media|2027-07-01|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+517|Raquel|alta|2027-07-02|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+518|Sergio|media|2027-07-03|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+519|Teresa|baja|2027-07-04|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+520|Ulises|alta|2027-07-05|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+521|Valeria|media|2027-07-06|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+522|Walter|baja|2027-07-07|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+523|Ximena|alta|2027-07-08|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+524|Yolanda|media|2027-07-09|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+525|Zaira|baja|2027-07-10|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+526|Adrian|alta|2027-07-11|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+527|Beatriz|media|2027-07-12|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+528|Cesar|alta|2027-07-13|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+529|Daniela|media|2027-07-14|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+530|Emilio|baja|2027-07-15|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+531|Fabiola|alta|2027-07-16|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+532|Gustavo|media|2027-07-17|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+533|Helena|baja|2027-07-18|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+534|Ivan|alta|2027-07-19|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+535|Julieta|media|2027-07-20|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+536|Kevin|baja|2027-07-21|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+537|Laura|alta|2027-07-22|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+538|Mateo|media|2027-07-23|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+539|Natalia|alta|2027-07-24|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+540|Oscar|media|2027-07-25|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+541|Patricia|baja|2027-07-26|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+542|Rafael|alta|2027-07-27|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+543|Silvia|media|2027-07-28|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+544|Tomas|baja|2027-07-29|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+545|Uriel|alta|2027-07-30|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+546|Veronica|media|2027-07-31|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+547|Wendy|baja|2027-08-01|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+548|Xavier|alta|2027-08-02|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+549|Yadira|media|2027-08-03|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+550|Zoila|alta|2027-08-04|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+551|Ana|media|2027-08-05|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+552|Bruno|baja|2027-08-06|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+553|Carla|alta|2027-08-07|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+554|Diego|media|2027-08-08|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+555|Elena|baja|2027-08-09|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+556|Fernando|alta|2027-08-10|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+557|Gabriela|media|2027-08-11|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+558|Hector|baja|2027-08-12|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+559|Isabel|alta|2027-08-13|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+560|Jorge|media|2027-08-14|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+561|Karla|alta|2027-08-15|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+562|Luis|media|2027-08-16|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+563|Mariana|baja|2027-08-17|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+564|Nicolas|alta|2027-08-18|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+565|Olivia|media|2027-08-19|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+566|Pablo|baja|2027-08-20|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+567|Raquel|alta|2027-08-21|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+568|Sergio|media|2027-08-22|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+569|Teresa|baja|2027-08-23|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+570|Ulises|alta|2027-08-24|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+571|Valeria|media|2027-08-25|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+572|Walter|alta|2027-08-26|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+573|Ximena|media|2027-08-27|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+574|Yolanda|baja|2027-08-28|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+575|Zaira|alta|2027-08-29|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+576|Adrian|media|2027-08-30|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+577|Beatriz|baja|2027-08-31|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+578|Cesar|alta|2027-09-01|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+579|Daniela|media|2027-09-02|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+580|Emilio|baja|2027-09-03|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+581|Fabiola|alta|2027-09-04|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+582|Gustavo|media|2027-09-05|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+583|Helena|alta|2027-09-06|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+584|Ivan|media|2027-09-07|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+585|Julieta|baja|2027-09-08|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+586|Kevin|alta|2027-09-09|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+587|Laura|media|2027-09-10|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+588|Mateo|baja|2027-09-11|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+589|Natalia|alta|2027-09-12|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+590|Oscar|media|2027-09-13|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+591|Patricia|baja|2027-09-14|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+592|Rafael|alta|2027-09-15|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+593|Silvia|media|2027-09-16|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+594|Tomas|alta|2027-09-17|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+595|Uriel|media|2027-09-18|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+596|Veronica|baja|2027-09-19|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+597|Wendy|alta|2027-09-20|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+598|Xavier|media|2027-09-21|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+599|Yadira|baja|2027-09-22|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+600|Zoila|alta|2027-09-23|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+601|Ana|media|2027-09-24|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+602|Bruno|baja|2027-09-25|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+603|Carla|alta|2027-09-26|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+604|Diego|media|2027-09-27|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+605|Elena|alta|2027-09-28|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+606|Fernando|media|2027-09-29|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+607|Gabriela|baja|2027-09-30|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+608|Hector|alta|2027-10-01|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+609|Isabel|media|2027-10-02|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+610|Jorge|baja|2027-10-03|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+611|Karla|alta|2027-10-04|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+612|Luis|media|2027-10-05|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+613|Mariana|baja|2027-10-06|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+614|Nicolas|alta|2027-10-07|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+615|Olivia|media|2027-10-08|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+616|Pablo|alta|2027-10-09|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+617|Raquel|media|2027-10-10|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+618|Sergio|baja|2027-10-11|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+619|Teresa|alta|2027-10-12|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+620|Ulises|media|2027-10-13|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+621|Valeria|baja|2027-10-14|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+622|Walter|alta|2027-10-15|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+623|Ximena|media|2027-10-16|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+624|Yolanda|baja|2027-10-17|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+625|Zaira|alta|2027-10-18|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+626|Adrian|media|2027-10-19|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+627|Beatriz|alta|2027-10-20|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+628|Cesar|media|2027-10-21|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+629|Daniela|baja|2027-10-22|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+630|Emilio|alta|2027-10-23|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+631|Fabiola|media|2027-10-24|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+632|Gustavo|baja|2027-10-25|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+633|Helena|alta|2027-10-26|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+634|Ivan|media|2027-10-27|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+635|Julieta|baja|2027-10-28|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+636|Kevin|alta|2027-10-29|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+637|Laura|media|2027-10-30|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+638|Mateo|alta|2027-10-31|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+639|Natalia|media|2027-11-01|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+640|Oscar|baja|2027-11-02|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+641|Patricia|alta|2027-11-03|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+642|Rafael|media|2027-11-04|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+643|Silvia|baja|2027-11-05|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+644|Tomas|alta|2027-11-06|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+645|Uriel|media|2027-11-07|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+646|Veronica|baja|2027-11-08|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+647|Wendy|alta|2027-11-09|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+648|Xavier|media|2027-11-10|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+649|Yadira|alta|2027-11-11|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+650|Zoila|media|2027-11-12|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+651|Ana|baja|2027-11-13|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+652|Bruno|alta|2027-11-14|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+653|Carla|media|2027-11-15|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+654|Diego|baja|2027-11-16|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+655|Elena|alta|2027-11-17|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+656|Fernando|media|2027-11-18|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+657|Gabriela|baja|2027-11-19|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+658|Hector|alta|2027-11-20|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+659|Isabel|media|2027-11-21|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+660|Jorge|alta|2027-11-22|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+661|Karla|media|2027-11-23|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+662|Luis|baja|2027-11-24|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+663|Mariana|alta|2027-11-25|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+664|Nicolas|media|2027-11-26|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+665|Olivia|baja|2027-11-27|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+666|Pablo|alta|2027-11-28|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+667|Raquel|media|2027-11-29|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+668|Sergio|baja|2027-11-30|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+669|Teresa|alta|2027-12-01|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+670|Ulises|media|2027-12-02|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+671|Valeria|alta|2027-12-03|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+672|Walter|media|2027-12-04|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+673|Ximena|baja|2027-12-05|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+674|Yolanda|alta|2027-12-06|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+675|Zaira|media|2027-12-07|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+676|Adrian|baja|2027-12-08|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+677|Beatriz|alta|2027-12-09|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+678|Cesar|media|2027-12-10|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+679|Daniela|baja|2027-12-11|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+680|Emilio|alta|2027-12-12|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+681|Fabiola|media|2027-12-13|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+682|Gustavo|alta|2027-12-14|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+683|Helena|media|2027-12-15|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+684|Ivan|baja|2027-12-16|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+685|Julieta|alta|2027-12-17|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+686|Kevin|media|2027-12-18|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+687|Laura|baja|2027-12-19|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+688|Mateo|alta|2027-12-20|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+689|Natalia|media|2027-12-21|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+690|Oscar|baja|2027-12-22|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+691|Patricia|alta|2027-12-23|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+692|Rafael|media|2027-12-24|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+693|Silvia|alta|2027-12-25|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+694|Tomas|media|2027-12-26|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+695|Uriel|baja|2027-12-27|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+696|Veronica|alta|2027-12-28|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+697|Wendy|media|2027-12-29|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+698|Xavier|baja|2027-12-30|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+699|Yadira|alta|2027-12-31|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+700|Zoila|media|2028-01-01|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+701|Ana|baja|2028-01-02|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+702|Bruno|alta|2028-01-03|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+703|Carla|media|2028-01-04|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+704|Diego|alta|2028-01-05|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+705|Elena|media|2028-01-06|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+706|Fernando|baja|2028-01-07|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+707|Gabriela|alta|2028-01-08|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+708|Hector|media|2028-01-09|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+709|Isabel|baja|2028-01-10|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+710|Jorge|alta|2028-01-11|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+711|Karla|media|2028-01-12|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+712|Luis|baja|2028-01-13|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+713|Mariana|alta|2028-01-14|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+714|Nicolas|media|2028-01-15|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+715|Olivia|alta|2028-01-16|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+716|Pablo|media|2028-01-17|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+717|Raquel|baja|2028-01-18|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+718|Sergio|alta|2028-01-19|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+719|Teresa|media|2028-01-20|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+720|Ulises|baja|2028-01-21|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+721|Valeria|alta|2028-01-22|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+722|Walter|media|2028-01-23|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+723|Ximena|baja|2028-01-24|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+724|Yolanda|alta|2028-01-25|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+725|Zaira|media|2028-01-26|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+726|Adrian|alta|2028-01-27|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+727|Beatriz|media|2028-01-28|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+728|Cesar|baja|2028-01-29|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+729|Daniela|alta|2028-01-30|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+730|Emilio|media|2028-01-31|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+731|Fabiola|baja|2028-02-01|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+732|Gustavo|alta|2028-02-02|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+733|Helena|media|2028-02-03|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+734|Ivan|baja|2028-02-04|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+735|Julieta|alta|2028-02-05|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+736|Kevin|media|2028-02-06|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+737|Laura|alta|2028-02-07|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+738|Mateo|media|2028-02-08|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+739|Natalia|baja|2028-02-09|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+740|Oscar|alta|2028-02-10|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+741|Patricia|media|2028-02-11|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+742|Rafael|baja|2028-02-12|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+743|Silvia|alta|2028-02-13|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+744|Tomas|media|2028-02-14|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+745|Uriel|baja|2028-02-15|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+746|Veronica|alta|2028-02-16|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+747|Wendy|media|2028-02-17|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+748|Xavier|alta|2028-02-18|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+749|Yadira|media|2028-02-19|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+750|Zoila|baja|2028-02-20|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+751|Ana|alta|2028-02-21|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+752|Bruno|media|2028-02-22|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+753|Carla|baja|2028-02-23|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+754|Diego|alta|2028-02-24|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+755|Elena|media|2028-02-25|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+756|Fernando|baja|2028-02-26|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+757|Gabriela|alta|2028-02-27|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+758|Hector|media|2028-02-28|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+759|Isabel|alta|2028-02-29|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+760|Jorge|media|2028-03-01|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+761|Karla|baja|2028-03-02|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+762|Luis|alta|2028-03-03|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+763|Mariana|media|2028-03-04|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+764|Nicolas|baja|2028-03-05|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+765|Olivia|alta|2028-03-06|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+766|Pablo|media|2028-03-07|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+767|Raquel|baja|2028-03-08|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+768|Sergio|alta|2028-03-09|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+769|Teresa|media|2028-03-10|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+770|Ulises|alta|2028-03-11|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+771|Valeria|media|2028-03-12|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+772|Walter|baja|2028-03-13|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+773|Ximena|alta|2028-03-14|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+774|Yolanda|media|2028-03-15|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+775|Zaira|baja|2028-03-16|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+776|Adrian|alta|2028-03-17|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+777|Beatriz|media|2028-03-18|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+778|Cesar|baja|2028-03-19|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+779|Daniela|alta|2028-03-20|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+780|Emilio|media|2028-03-21|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+781|Fabiola|alta|2028-03-22|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+782|Gustavo|media|2028-03-23|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+783|Helena|baja|2028-03-24|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+784|Ivan|alta|2028-03-25|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+785|Julieta|media|2028-03-26|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+786|Kevin|baja|2028-03-27|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+787|Laura|alta|2028-03-28|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+788|Mateo|media|2028-03-29|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+789|Natalia|baja|2028-03-30|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+790|Oscar|alta|2028-03-31|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+791|Patricia|media|2028-04-01|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+792|Rafael|alta|2028-04-02|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+793|Silvia|media|2028-04-03|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+794|Tomas|baja|2028-04-04|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+795|Uriel|alta|2028-04-05|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+796|Veronica|media|2028-04-06|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+797|Wendy|baja|2028-04-07|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+798|Xavier|alta|2028-04-08|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+799|Yadira|media|2028-04-09|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+800|Zoila|baja|2028-04-10|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+801|Ana|alta|2028-04-11|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+802|Bruno|media|2028-04-12|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+803|Carla|alta|2028-04-13|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+804|Diego|media|2028-04-14|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+805|Elena|baja|2028-04-15|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+806|Fernando|alta|2028-04-16|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+807|Gabriela|media|2028-04-17|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+808|Hector|baja|2028-04-18|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+809|Isabel|alta|2028-04-19|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+810|Jorge|media|2028-04-20|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+811|Karla|baja|2028-04-21|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+812|Luis|alta|2028-04-22|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+813|Mariana|media|2028-04-23|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+814|Nicolas|alta|2028-04-24|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+815|Olivia|media|2028-04-25|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+816|Pablo|baja|2028-04-26|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+817|Raquel|alta|2028-04-27|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+818|Sergio|media|2028-04-28|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+819|Teresa|baja|2028-04-29|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+820|Ulises|alta|2028-04-30|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+821|Valeria|media|2028-05-01|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+822|Walter|baja|2028-05-02|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+823|Ximena|alta|2028-05-03|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+824|Yolanda|media|2028-05-04|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+825|Zaira|alta|2028-05-05|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+826|Adrian|media|2028-05-06|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+827|Beatriz|baja|2028-05-07|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+828|Cesar|alta|2028-05-08|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+829|Daniela|media|2028-05-09|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+830|Emilio|baja|2028-05-10|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+831|Fabiola|alta|2028-05-11|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+832|Gustavo|media|2028-05-12|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+833|Helena|baja|2028-05-13|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+834|Ivan|alta|2028-05-14|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+835|Julieta|media|2028-05-15|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+836|Kevin|alta|2028-05-16|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+837|Laura|media|2028-05-17|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+838|Mateo|baja|2028-05-18|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+839|Natalia|alta|2028-05-19|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+840|Oscar|media|2028-05-20|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+841|Patricia|baja|2028-05-21|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+842|Rafael|alta|2028-05-22|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+843|Silvia|media|2028-05-23|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+844|Tomas|baja|2028-05-24|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+845|Uriel|alta|2028-05-25|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+846|Veronica|media|2028-05-26|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+847|Wendy|alta|2028-05-27|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+848|Xavier|media|2028-05-28|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+849|Yadira|baja|2028-05-29|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+850|Zoila|alta|2028-05-30|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+851|Ana|media|2028-05-31|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+852|Bruno|baja|2028-06-01|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+853|Carla|alta|2028-06-02|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+854|Diego|media|2028-06-03|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+855|Elena|baja|2028-06-04|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+856|Fernando|alta|2028-06-05|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+857|Gabriela|media|2028-06-06|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+858|Hector|alta|2028-06-07|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+859|Isabel|media|2028-06-08|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+860|Jorge|baja|2028-06-09|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+861|Karla|alta|2028-06-10|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+862|Luis|media|2028-06-11|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+863|Mariana|baja|2028-06-12|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+864|Nicolas|alta|2028-06-13|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+865|Olivia|media|2028-06-14|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+866|Pablo|baja|2028-06-15|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+867|Raquel|alta|2028-06-16|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+868|Sergio|media|2028-06-17|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+869|Teresa|alta|2028-06-18|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+870|Ulises|media|2028-06-19|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+871|Valeria|baja|2028-06-20|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+872|Walter|alta|2028-06-21|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+873|Ximena|media|2028-06-22|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+874|Yolanda|baja|2028-06-23|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+875|Zaira|alta|2028-06-24|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+876|Adrian|media|2028-06-25|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+877|Beatriz|baja|2028-06-26|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+878|Cesar|alta|2028-06-27|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+879|Daniela|media|2028-06-28|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+880|Emilio|alta|2028-06-29|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+881|Fabiola|media|2028-06-30|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+882|Gustavo|baja|2028-07-01|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+883|Helena|alta|2028-07-02|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+884|Ivan|media|2028-07-03|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+885|Julieta|baja|2028-07-04|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+886|Kevin|alta|2028-07-05|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+887|Laura|media|2028-07-06|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+888|Mateo|baja|2028-07-07|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+889|Natalia|alta|2028-07-08|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+890|Oscar|media|2028-07-09|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+891|Patricia|alta|2028-07-10|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+892|Rafael|media|2028-07-11|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+893|Silvia|baja|2028-07-12|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+894|Tomas|alta|2028-07-13|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+895|Uriel|media|2028-07-14|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+896|Veronica|baja|2028-07-15|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+897|Wendy|alta|2028-07-16|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+898|Xavier|media|2028-07-17|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+899|Yadira|baja|2028-07-18|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+900|Zoila|alta|2028-07-19|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+901|Ana|media|2028-07-20|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+902|Bruno|alta|2028-07-21|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+903|Carla|media|2028-07-22|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+904|Diego|baja|2028-07-23|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+905|Elena|alta|2028-07-24|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+906|Fernando|media|2028-07-25|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+907|Gabriela|baja|2028-07-26|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+908|Hector|alta|2028-07-27|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+909|Isabel|media|2028-07-28|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+910|Jorge|baja|2028-07-29|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+911|Karla|alta|2028-07-30|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+912|Luis|media|2028-07-31|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+913|Mariana|alta|2028-08-01|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+914|Nicolas|media|2028-08-02|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+915|Olivia|baja|2028-08-03|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+916|Pablo|alta|2028-08-04|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+917|Raquel|media|2028-08-05|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+918|Sergio|baja|2028-08-06|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+919|Teresa|alta|2028-08-07|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+920|Ulises|media|2028-08-08|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+921|Valeria|baja|2028-08-09|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+922|Walter|alta|2028-08-10|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+923|Ximena|media|2028-08-11|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+924|Yolanda|alta|2028-08-12|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+925|Zaira|media|2028-08-13|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+926|Adrian|baja|2028-08-14|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+927|Beatriz|alta|2028-08-15|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+928|Cesar|media|2028-08-16|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+929|Daniela|baja|2028-08-17|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+930|Emilio|alta|2028-08-18|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+931|Fabiola|media|2028-08-19|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+932|Gustavo|baja|2028-08-20|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+933|Helena|alta|2028-08-21|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+934|Ivan|media|2028-08-22|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+935|Julieta|alta|2028-08-23|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+936|Kevin|media|2028-08-24|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+937|Laura|baja|2028-08-25|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+938|Mateo|alta|2028-08-26|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+939|Natalia|media|2028-08-27|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+940|Oscar|baja|2028-08-28|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
+941|Patricia|alta|2028-08-29|S01|tabla de claves mantiene algoritmo y sistema listos sin repetir palabras|:!@+! $% #+!>%; -!=:(%=% !+&[}(:-[ ? ;(;:%-! +(;:[; ;(= }%]%:(} ]!+!@}!;
+942|Rafael|media|2028-08-30|S02|buscar clave en registro de acceso permite medir contador para proteger la red|&/.*^, *{^!) ); ,)+=.?,: () ^**).: <),}=?) })(=, *:;?^(:, <^,^ <,:?)+), {^ ,)(
+943|Silvia|baja|2028-08-31|S03|reporte indica que terminal remota bloquea acceso sin usar biblioteca externa|#]!/#%] :?[:=+ @^] %]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+
+944|Tomas|alta|2028-09-01|S04|estacion de analisis usa indice para probar cifrado y descifrado antes del amanecer|>)_}:/^% <> }%}#/)/) +)} /%</:> &}(} &(^;}( :/,(}<^ ] <>):/,(}<^ }%_>) <># }$}%>:>(
+945|Uriel|media|2028-09-02|S05|cuando paquete de datos analiza frecuencia se registra frecuencia con laboratorio|/}._!+ -.=}@{@ !@ !.{+] ._.(^,. #[@/}@_/^. ]@ [@$^]{[. #[@/}@_/^. /+_ (.?+[.{+[^+
+946|Veronica|alta|2028-09-03|K01|el modulo compara sistema algoritmo y letra dentro de mensaje urgente|ts dgrxsg egdhqkq lolztdq qsugkozdg n stzkq rtfzkg rt dtflqpt xkutfzt
+947|Wendy|media|2028-09-04|K02|informe final genera ejemplo de longitud para busqueda eficiente|kdxsofc xkdmg zcdcom cjcfags vc gsdzkuyv amom nyipycvm cxkbkcduc
+948|Xavier|baja|2028-09-05|K03|prueba de laboratorio confirma equivalencia en base de pruebas como caso de prueba|xkvihp gi nphdkpcdkad qdfuakop ijvaspnifqap if hpri gi xkvihpr qdod qprd gi xkvihp
+949|Yadira|alta|2028-09-06|K04|repositorio local filtra resultados con prioridad baja para revisar patron|qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz ozqz qduhrzq ozsqnm
+950|Zoila|media|2028-09-07|K05|el resultado del consola de monitoreo separa palabras para el analista|vo ivhfogzwl wvo xlmhloz wv nlmrglivl hvkziz kzozyizh kziz vo zmzorhgz
+951|Ana|baja|2028-09-08|K06|requiere revision del modulo de busqueda para comparar datos y posicion|sfrvjfsf sfwjtjpo efm npevmp ef cvtrvfeb qbsb dpnqbsbs ebupt z qptjdjpo
+952|Bruno|alta|2028-09-09|K07|analista revisa lista de remitentes con memoria controlada usando ordenamiento frecuente|lxlmsrjl caqsrl msrjl oa cansjaxjar wpx nanpcsl wpxjcpmlol trlxop pcoaxlnsaxjp ycawtaxja
+953|Carla|media|2028-09-10|K08|cola de prioridad mantiene mensaje y ordenamiento listos con prioridad alta|ifbe ou gjrfjroeo cedlrudu cudkesu z fjoudecrudlf brklfk ifd gjrfjroeo eble
+954|Diego|baja|2028-09-11|K09|buscar fecha en motor de frecuencia permite medir frecuencia con tabla inversa|kdblja onlqj nw vxcxa mn oanldnwlrj ynavrcn vnmra oanldnwlrj lxw cjkuj rwenabj
+955|Elena|alta|2028-09-12|K10|reporte indica que bitacora cifrada analiza frecuencia con datos del remitente|hmnlhjm ufquyx tpm oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm
+956|Fernando|media|2028-09-13|S01|indice de palabras usa palabra para probar cifrado y descifrado mediante sustitucion fija|(=$(#% $% ]!+!@}!; <;! ]!+!@}! ]!}! ]}[@!} #(^}!$[ ? $%;#(^}!$[ -%$(!=:% ;<;:(:<#([= ^()!
+957|Gabriela|alta|2028-09-14|S02|cuando matriz de equivalencias compara patrones se registra equivalencia con fecha|*/^;(: }^?,=% () )>/=!^{);*=^. *:}<^,^ <^?,:;). .) ,)+=.?,^ )>/=!^{);*=^ *:; _)*-^
+958|Hector|media|2028-09-15|S03|el modulo compara lista longitud y patron dentro de control de acceso|], ./[^,/ =/.!+#+ ,:$%+ ,/?}:%^[ ) !+%#/? []?%#/ [] =/?%#/, [] +==]$/
+959|Isabel|baja|2028-09-16|S04|directorio secreto genera ejemplo de archivo para busqueda eficiente|</(>:_^(/^ )>:(>_^ .>%>(} >!>$&#^ <> }(:?/-^ &}(} ;+)*+><} >,/:/>%_>
+960|Jorge|alta|2028-09-17|S05|prueba de cifrado confirma tabla en panel de auditoria con criterio alfabetico|-[}@?. !@ /^#[.!+ /+_#^[). {.?(. @_ -._@( !@ .}!^{+[^. /+_ /[^{@[^+ .(#.?@{^/+
+961|Karla|media|2028-09-18|K01|servidor principal requiere revision durante la noche y conserva ataque|ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit n egfltkcq qzqjxt
+962|Luis|baja|2028-09-19|K02|el equipo del laboratorio central registra cambio para la prueba final|cg cpykas vcg gmnsomusoks bcduomg oczkiuom bmfnks amom gm aoycnm xkdmg
+963|Mariana|alta|2028-09-20|K03|bloquea acceso del red interna para comparar tabla y clave|hndjvip pqqird gin kig afcikfp xpkp qdoxpkpk cphnp w qnpsi
+964|Nicolas|media|2028-09-21|K04|analista revisa archivo historico por longitud del texto usando texto frecuente|zmzkhrsz qduhrz zqbghun ghrsnqhbn onq knmfhstc cdk sdwsn trzmcn sdwsn eqdbtdmsd
+965|Olivia|baja|2028-09-22|K05|canal seguro mantiene prioridad y lista listos para reporte de clase|xzmzo hvtfil nzmgrvmv kirlirwzw b orhgz orhglh kziz ivkligv wv xozhv
+966|Pablo|alta|2028-09-23|K06|buscar posicion en equipo azul permite medir datos con prioridad media|cvtdbs qptjdjpo fo frvjqp bavm qfsnjuf nfejs ebupt dpo qsjpsjebe nfejb
+967|Raquel|media|2028-09-24|K07|reporte indica que equipo rojo compara patrones segun la clave activa|cabpcja sxoswl dta adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql
+968|Sergio|alta|2028-09-25|K08|nodo norte usa busqueda para probar cifrado y descifrado segun fecha registrada|dfof dfjlu mke amkhmuoe geje gjfaej iryjeof z oukiryjeof kupmd yuiqe juprkljeoe
+969|Teresa|media|2028-09-26|K09|cuando puerta oeste filtra resultados se registra contador con cifrado|ldjwmx ydnacj xnbcn orucaj anbducjmxb bn anprbcaj lxwcjmxa lxw lroajmx
+970|Ulises|baja|2028-09-27|K10|el modulo compara red mensaje y remitente dentro de sistema de respaldo|mw alqpwl ylanxhx hmq amfdxkm e hmaujmfjm qmfjhl qm dudjmax qm hmdnxwql
+971|Valeria|alta|2028-09-28|S01|tabla de claves genera ejemplo de algoritmo para busqueda eficiente|:!@+! $% #+!>%; &%=%}! %)%-]+[ $% !+&[}(:-[ ]!}! @<;{<%$! %^(#(%=:%
+972|Walter|media|2028-09-29|S02|prueba de clave confirma contador en registro de acceso para proteger la red|<,/)&^ () *{^!) *:;_=,}^ *:;?^(:, ); ,)+=.?,: () ^**).: <^,^ <,:?)+), {^ ,)(
+973|Ximena|baja|2028-09-30|S03|terminal remota bloquea acceso sin usar biblioteca externa porque contiene remitente|%]#.:?+, #]./%+ -,/@^]+ +==]$/ $:? ^$+# -:-,:/%]=+ ](%]#?+ !/#@^] =/?%:]?] #].:%]?%]
+974|Yolanda|alta|2028-10-01|S04|el indice del estacion de analisis sincroniza datos antes del amanecer|># /%</:> <># >)_}:/^% <> }%}#/)/) )/%:(^%/{} <}_^) }%_>) <># }$}%>:>(
+975|Zaira|media|2028-10-02|S05|analiza frecuencia del paquete de datos para comparar frecuencia y laboratorio|._.(^,. #[@/}@_/^. !@( -.=}@{@ !@ !.{+] -.[. /+)-.[.[ #[@/}@_/^. > (.?+[.{+[^+
+976|Adrian|baja|2028-10-03|K01|analista revisa mensaje urgente en mensajes distintos usando sistema frecuente|qfqsolzq ktcolq dtflqpt xkutfzt tf dtflqptl rolzofzgl xlqfrg lolztdq yktextfzt
+977|Beatriz|alta|2028-10-04|K02|informe final mantiene longitud y texto listos para comparar frecuencias|kdxsofc xkdmg fmdukcdc gsdzkuyv w uceus gkiusi amom bsfamomo xocbycdbkmi
+978|Cesar|media|2028-10-05|K03|buscar laboratorio en base de pruebas permite medir equivalencia como caso de prueba|hvrqpk nphdkpcdkad if hpri gi xkvihpr xikoaci oigak ijvaspnifqap qdod qprd gi xkvihp
+979|Daniela|alta|2028-10-06|K04|reporte indica que repositorio local filtra resultados con prioridad baja|qdonqsd hmchbz ptd qdonrhsnqhn knbzk ehksqz qdrtkszcnr bnm oqhnqhczc aziz
+980|Emilio|media|2028-10-07|K05|consola de monitoreo usa resultado para probar cifrado y descifrado para el analista|xlmhloz wv nlmrglivl fhz ivhfogzwl kziz kilyzi xruizwl b wvhxruizwl kziz vo zmzorhgz
+981|Fabiola|baja|2028-10-08|K06|cuando modulo de busqueda requiere revision se registra datos con posicion|dvboep npevmp ef cvtrvfeb sfrvjfsf sfwjtjpo tf sfhjtusb ebupt dpo qptjdjpo
+982|Gustavo|alta|2028-10-09|K07|el modulo compara ordenamiento archivo y servidor dentro de lista de remitentes|am npotmp wpnblcl pcoaxlnsaxjp lcwisqp z racqsopc oaxjcp oa msrjl oa cansjaxjar
+983|Helena|media|2028-10-10|K08|cola de prioridad genera ejemplo de mensaje para busqueda eficiente|ifbe ou gjrfjroeo puduje usucgbf ou cudkesu geje amkhmuoe uyrirudlu
+984|Ivan|baja|2028-10-11|K09|prueba de fecha confirma frecuencia en motor de frecuencia con tabla inversa|yadnkj mn onlqj lxworavj oanldnwlrj nw vxcxa mn oanldnwlrj lxw cjkuj rwenabj
+985|Julieta|alta|2028-10-12|K10|bitacora cifrada analiza frecuencia con datos del remitente cuando encuentra letra|oujxylhx yuchxqx xfxwuvx chmypmfyux ylf qxjld qmw hmaujmfjm ypxfql mfypmfjhx wmjhx
+986|Kevin|media|2028-10-13|S01|el palabra del indice de palabras ordena mensajes mediante sustitucion fija|%+ ]!+!@}! $%+ (=$(#% $% ]!+!@}!; [}$%=! -%=;!)%; -%$(!=:% ;<;:(:<#([= ^()!
+987|Laura|baja|2028-10-14|S02|compara patrones del matriz de equivalencias para comparar equivalencia y fecha|*:}<^,^ <^?,:;). (){ }^?,=% () )>/=!^{);*=^. <^,^ *:}<^,^, )>/=!^{);*=^ $ _)*-^
+988|Mateo|alta|2028-10-15|S03|analista revisa control de acceso en el turno vespertino usando lista frecuente|+?+,:$%+ #]&:$+ =/?%#/, [] +==]$/ ]? ], %^#?/ &]$!]#%:?/ ^$+?[/ ,:$%+ {#]=^]?%]
+989|Natalia|media|2028-10-16|S04|directorio secreto mantiene archivo y red listos para buscar ataque|</(>:_^(/^ )>:(>_^ $}%_/>%> }(:?/-^ ] (>< #/)_^) &}(} ;+):}( }_}*+>
+990|Oscar|alta|2028-10-17|S05|buscar cifrado en panel de auditoria permite medir tabla con criterio alfabetico|?}]/.[ /^#[.!+ @_ -._@( !@ .}!^{+[^. -@[)^{@ )@!^[ {.?(. /+_ /[^{@[^+ .(#.?@{^/+
+991|Patricia|media|2028-10-18|K01|reporte indica que servidor principal requiere revision durante la noche|kthgkzt ofroeq jxt ltkcorgk hkofeohqs ktjxotkt ktcologf rxkqfzt sq fgeit
+992|Rafael|baja|2028-10-19|K02|laboratorio central usa equipo para probar cifrado y descifrado para la prueba final|gmnsomusoks bcduomg yim cpykas amom aosnmo bkxomvs w vcibkxomvs amom gm aoycnm xkdmg
+993|Silvia|alta|2028-10-20|K03|cuando red interna bloquea acceso se registra tabla con clave|qvpfgd kig afcikfp hndjvip pqqird ri kimarckp cphnp qdf qnpsi
+994|Tomas|media|2028-10-21|K04|el modulo compara texto prioridad y ataque dentro de archivo historico|dk lnctkn bnlozqz sdwsn oqhnqhczc x zszptd cdmsqn cd zqbghun ghrsnqhbn
+995|Uriel|baja|2028-10-22|K05|canal seguro genera ejemplo de prioridad para busqueda eficiente|xzmzo hvtfil tvmviz vqvnkol wv kirlirwzw kziz yfhjfvwz vurxrvmgv
+996|Veronica|alta|2028-10-23|K06|prueba de posicion confirma datos en equipo azul con prioridad media|qsvfcb ef qptjdjpo dpogjsnb ebupt fo frvjqp bavm dpo qsjpsjebe nfejb
+997|Wendy|media|2028-10-24|K07|equipo rojo compara patrones segun la clave activa despues de cifrar servidor|adtsbp cpvp wpnblcl bljcpxar rautx ml wmlqa lwjsql oarbtar oa wsyclc racqsopc
+998|Xavier|baja|2028-10-25|K08|el busqueda del nodo norte clasifica prioridad segun fecha registrada|ub amkhmuoe oub dfof dfjlu ibekryrie gjrfjroeo kupmd yuiqe juprkljeoe
+999|Yadira|alta|2028-10-26|K09|filtra resultados del puerta oeste para comparar contador y cifrado|orucaj anbducjmxb mnu ydnacj xnbcn yjaj lxvyjaja lxwcjmxa h lroajmx
+1000|Zoila|media|2028-10-27|K10|analista revisa sistema de respaldo en modo silencioso usando red frecuente|xfxwudjx hmzudx dudjmax qm hmdnxwql mf alql duwmfyuldl pdxfql hmq chmypmfjm
