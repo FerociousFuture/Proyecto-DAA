@@ -45,4 +45,16 @@ typedef struct WordNode {
     struct WordNode* next;
 } WordNode;
 
+/* Estructura para Frecuencias */
+typedef struct { 
+    char letra;
+    float clave_id;
+}Frecuencias;
+
+/* Estructura para Remitentes */
+typedef struct { //Estructura para remitentes
+    int remitente_id;
+    char nombre[20];
+}Remitentes;
+
 #endif /* ESTRUCTURAS_H */
