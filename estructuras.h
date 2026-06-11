@@ -57,4 +57,10 @@ typedef struct { //Estructura para remitentes
     char nombre[20];
 }Remitentes;
 
+/* Estructura auxiliar para ordenar las letras por frecuencia */
+typedef struct {
+    char letra;
+    int conteo;
+} FrecuenciaLetra;
+
 #endif /* ESTRUCTURAS_H */
