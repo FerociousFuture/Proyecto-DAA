@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include "modulos.h"
-#include "mod1_ordenamiento.c"
-#include "mod2_cifrado.c"
-#include "mod3_frecuencias.c"
-#include "mod4_top10.c"
 
 /* ============================================================
  * main.c  –  Sistema Cryptonituv
@@ -172,14 +168,14 @@ int main(void) {
 
         /* ---- MÓDULO 5: Búsqueda ---- */
         case 5: {
-            /* char busqueda[50];
+            char busqueda[50];
             printf("\n-- Módulo 5: Búsqueda de Palabra --\n");
             printf("Ingresa la palabra a buscar: ");
             fgets(busqueda, sizeof(busqueda), stdin);
             busqueda[strcspn(busqueda, "\n")] = '\0';
 
             m5_buscar_palabra(busqueda, db_mensajes, total_mensajes,
-                              db_claves, total_claves); */
+                              db_claves, total_claves);
             break;
         }
 
