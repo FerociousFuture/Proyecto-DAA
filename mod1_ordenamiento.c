@@ -7,10 +7,10 @@
  * mod1_ordenamiento.c  –  Módulo 1: Carga y ordenamiento
  *
  * Estrategias utilizadas (cuatro distintas según el criterio):
- *   1. Counting Sort  –  por prioridad DESC   O(n + m)
- *   2. Merge Sort     –  por fecha ASC        O(n log n)
- *   3. Shell Sort     –  por remitente ASC    O(n log² n)
- *   4. Counting Sort  –  por longitud ASC     O(n + m)
+ * 1. Counting Sort  –  por prioridad DESC   O(n + m)
+ * 2. Merge Sort     –  por fecha ASC        O(n log n)
+ * 3. Shell Sort     –  por remitente ASC    O(n log² n)
+ * 4. Counting Sort  –  por longitud ASC     O(n + m)
  * ============================================================ */
 
 /* Elimina el salto de línea al final de una cadena */
@@ -41,24 +41,42 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     *total_diccionario = 0;
 
     /* 1. Mensajes cifrados */
-    FILE *file = fopen("Cryptonituv_DB/mensajes_cifrados.txt", "r"); //Cryptonituv_DB/mensajes_cifrados.txt
+    FILE *file = fopen("Cryptonituv_DB/mensajes_cifrados.txt", "r"); 
     if (!file) file = fopen("Cryptonituv_DB/mensajes.txt", "r");  /* nombre alternativo */
     if (file) {
         char linea[2500];
+        /* Leer la primera línea para omitir los encabezados (si existen) 
+           Nota: Puedes comentar o borrar este fgets si tus archivos NO tienen encabezado */
+        // fgets(linea, sizeof(linea), file); 
+
         while (fgets(linea, sizeof(linea), file) && total_mensajes < MAX_MENSAJES) {
             Mensaje *m = &db_mensajes[total_mensajes];
-            m->id = total_mensajes + 1;
 
+            /* CORRECCIÓN: Leer el ID primero */
             char *tok = strtok(linea, "|");
-            if (tok) strncpy(m->remitente,      tok, 49);
+            if (tok) m->id = atoi(tok);
+
+            /* Remitente */
+            tok = strtok(NULL, "|");
+            if (tok) strncpy(m->remitente, tok, 49);
+
+            /* Prioridad */
             tok = strtok(NULL, "|");
             if (tok) m->prioridad = parsear_prioridad(tok);
+
+            /* Fecha */
             tok = strtok(NULL, "|");
-            if (tok) strncpy(m->fecha,           tok, 14);
+            if (tok) strncpy(m->fecha, tok, 14);
+
+            /* ID de clave */
             tok = strtok(NULL, "|");
-            if (tok) strncpy(m->clave_id,        tok,  9);
+            if (tok) strncpy(m->clave_id, tok, 9);
+
+            /* Texto Original */
             tok = strtok(NULL, "|");
-            if (tok) strncpy(m->texto_original,  tok, 1023);
+            if (tok) strncpy(m->texto_original, tok, 1023);
+
+            /* Texto Cifrado */
             tok = strtok(NULL, "|");
             if (tok) {
                 strncpy(m->texto_cifrado, tok, 1023);
@@ -152,9 +170,9 @@ void m1_ordenar_prioridad_desc(Mensaje* db_mensajes, int total_mensajes) {
         conteo[db_mensajes[i].prioridad]++;
 
     /* Paso 2: convertir a posiciones de inicio (orden desc: alta primero)
-     *   alta  empieza en 0
-     *   media empieza en conteo[alta]
-     *   baja  empieza en conteo[alta] + conteo[media]            */
+     * alta  empieza en 0
+     * media empieza en conteo[alta]
+     * baja  empieza en conteo[alta] + conteo[media]            */
     int pos[3];
     pos[2] = 0;
     pos[1] = conteo[2];
