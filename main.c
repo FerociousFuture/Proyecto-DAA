@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 #include "modulos.h"
+#include "mod1_ordenamiento.c"
+#include "mod2_cifrado.c"
+#include "mod3_frecuencias.c"
+#include "mod4_top10.c"
 
 /* ============================================================
  * main.c  –  Sistema Cryptonituv
@@ -25,8 +29,9 @@ static void limpiar_buffer(void) {
  * ---------------------------------------------------------- */
 static void mostrar_claves(int total_claves) {
     printf("\nClaves disponibles:\n");
-    for (int i = 0; i < total_claves; i++)
-        printf("  %d. %s\n", i + 1, db_claves[i].id);
+    printf("  ID. %s\n" , db_claves[0].id);
+    for (int i = 1; i < total_claves; i++)
+        printf("  %d. %s\n", i  , db_claves[i].id);
 }
 
 /* ----------------------------------------------------------
@@ -38,9 +43,9 @@ static int seleccionar_clave(int total_claves) {
     mostrar_claves(total_claves);
     printf("Selecciona el número de clave: ");
     int sel = 0;
-    if (scanf("%d", &sel) != 1 || sel < 1 || sel > total_claves) sel = 1;
+    if (scanf("%d", &sel) != 1 || sel < 2 || sel > total_claves) sel = 1;
     limpiar_buffer();
-    return sel - 1;  /* índice base-0 */
+    return sel ;  
 }
 
 /* ============================================================
@@ -120,25 +125,30 @@ int main(void) {
         /* ---- MÓDULO 2: Cifrado / Descifrado ---- */
         case 2: {
             char input[1024], output[1024], descifrado[1024];
+            
             printf("\n-- Módulo 2: Cifrado y Descifrado --\n");
             printf("Ingresa el texto: ");
             fgets(input, sizeof(input), stdin);
             input[strcspn(input, "\n")] = '\0';
+            int *pos = calloc(strlen(input), sizeof(int));
 
             int idx_clave = seleccionar_clave(total_claves);
             Clave clave_sel = db_claves[idx_clave];
 
-            m2_procesar_texto(input, output, clave_sel, 0);
+            m2_procesar_texto(input, output, clave_sel, 0, pos);
             printf("\nTexto original : %s\n", input);
             printf("Texto cifrado  : %s\n", output);
 
-            m2_procesar_texto(output, descifrado, clave_sel, 1);
+            m2_procesar_texto(output, descifrado, clave_sel, 1, pos);
             printf("Descifrado     : %s\n", descifrado);
 
-            if (strcmp(input, descifrado) == 0)
+            if (strcmp(input, descifrado) == 0){
                 printf("[OK] El descifrado coincide con el texto original.\n");
-            else
+
+            }else{
                 printf("[AVISO] El descifrado no coincide (posible carácter fuera de clave).\n");
+            }
+            free(pos);
             break;
         }
 
@@ -162,14 +172,14 @@ int main(void) {
 
         /* ---- MÓDULO 5: Búsqueda ---- */
         case 5: {
-            char busqueda[50];
+            /* char busqueda[50];
             printf("\n-- Módulo 5: Búsqueda de Palabra --\n");
             printf("Ingresa la palabra a buscar: ");
             fgets(busqueda, sizeof(busqueda), stdin);
             busqueda[strcspn(busqueda, "\n")] = '\0';
 
             m5_buscar_palabra(busqueda, db_mensajes, total_mensajes,
-                              db_claves, total_claves);
+                              db_claves, total_claves); */
             break;
         }
 

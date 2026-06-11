@@ -41,8 +41,8 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     *total_diccionario = 0;
 
     /* 1. Mensajes cifrados */
-    FILE *file = fopen("mensajes_cifrados.txt", "r");
-    if (!file) file = fopen("mensajes.txt", "r");  /* nombre alternativo */
+    FILE *file = fopen("Cryptonituv_DB/mensajes_cifrados.txt", "r"); //Cryptonituv_DB/mensajes_cifrados.txt
+    if (!file) file = fopen("Cryptonituv_DB/mensajes.txt", "r");  /* nombre alternativo */
     if (file) {
         char linea[2500];
         while (fgets(linea, sizeof(linea), file) && total_mensajes < MAX_MENSAJES) {
@@ -71,16 +71,22 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     }
 
     /* 2. Claves de sustitución */
-    FILE *fclaves = fopen("claves.txt", "r");
+    FILE *fclaves = fopen("Cryptonituv_DB/claves.txt", "r");
     if (fclaves) {
         char linea[1024];
         while (fgets(linea, sizeof(linea), fclaves) && *total_claves < MAX_CLAVES) {
             Clave *c = &db_claves[*total_claves];
-            char *t = strtok(linea, "|");
-            if (t) strncpy(c->id,               t, 9);
-            t = strtok(NULL, "|");
+            char *t = strtok(linea, "|"); //Clave id
+            if (t){
+                strncpy(c->id,t, 9);
+                c->id[9] = '\0';
+            }
+            t = strtok(NULL, "|"); //Nombre
+            t = strtok(NULL, "|"); //Tipo
+            t = strtok(NULL, "|"); //Alfabeto
+            
             if (t) strncpy(c->alfabeto_original, t, 255);
-            t = strtok(NULL, "|");
+            t = strtok(NULL, "|"); //tabla sustitucion
             if (t) {
                 strncpy(c->alfabeto_cifrado, t, 255);
                 limpiar_salto_linea(c->alfabeto_cifrado);
@@ -91,7 +97,7 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     }
 
     /* 3. Diccionario de palabras frecuentes (Módulo 3) */
-    FILE *fdict = fopen("palabras_frecuentes.txt", "r");
+    FILE *fdict = fopen("Cryptonituv_DB/palabras_frecuentes.txt", "r");
     if (fdict) {
         char linea[100];
         while (fgets(linea, sizeof(linea), fdict) && *total_diccionario < MAX_PALABRAS_DICT) {

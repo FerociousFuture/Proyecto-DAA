@@ -42,7 +42,7 @@ void m1_imprimir_mensajes(Mensaje* db_mensajes, int total_mensajes, int cantidad
  * descifrar = 0 → cifrar  |  descifrar = 1 → descifrar
  * Complejidad: O(L)
  */
-void m2_procesar_texto(const char* input, char* output, Clave clave, int descifrar);
+void m2_procesar_texto(const char* input, char* output, Clave clave, int descifrar, int *pos);
 
 /* ---------- Módulo 3: Análisis de Frecuencias ---------- */
 
