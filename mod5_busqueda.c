@@ -7,16 +7,16 @@
  * mod5_busqueda.c  –  Módulo 5: Búsqueda y equivalencias cifradas
  *
  * Dado una palabra objetivo, el módulo:
- *   1. Recorre todos los mensajes buscando la palabra en texto original.  O(T)
- *   2. Para cada mensaje donde aparece, cifra la palabra con la clave
- *      correspondiente.                                                   O(q)
- *   3. Agrupa y cuenta apariciones por equivalente cifrado.
- *   4. Muestra un resumen con: equivalente cifrado, clave usada y
- *      cuántos mensajes la contienen.
+ * 1. Recorre todos los mensajes buscando la palabra en texto original.  O(T)
+ * 2. Para cada mensaje donde aparece, cifra la palabra con la clave
+ * correspondiente.                                                   O(q)
+ * 3. Agrupa y cuenta apariciones por equivalente cifrado.
+ * 4. Muestra un resumen con: equivalente cifrado, clave usada y
+ * cuántos mensajes la contienen.
  *
  * Complejidad total: O(T + q)
- *   T = total de caracteres en todos los textos originales
- *   q = longitud de la palabra buscada
+ * T = total de caracteres en todos los textos originales
+ * q = longitud de la palabra buscada
  * ============================================================ */
 
 #define MAX_EQUIV 100  /* máximo de equivalentes cifrados distintos a rastrear */
@@ -93,7 +93,8 @@ void m5_buscar_palabra(const char* objetivo, Mensaje* db_mensajes,
         /* Cifrar la palabra con la clave de ese mensaje */
         Clave *c = buscar_clave_por_id(db_mensajes[i].clave_id, db_claves, total_claves);
         if (c) {
-            m2_procesar_texto(objetivo, buffer_cifrado, *c, 0);
+            int pos_dummy = 0;
+            m2_procesar_texto(objetivo, buffer_cifrado, *c, 0, &pos_dummy);
         } else {
             /* Si no se encontró clave, usar la palabra tal cual */
             strncpy(buffer_cifrado, objetivo, 1023);
