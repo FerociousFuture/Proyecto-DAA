@@ -3,17 +3,10 @@
 #include <string.h>
 #include "modulos.h"
 
-/* ============================================================
- * mod1_ordenamiento.c  –  Módulo 1: Carga y ordenamiento
- *
- * Estrategias utilizadas (cuatro distintas según el criterio):
- * 1. Counting Sort  –  por prioridad DESC   O(n + m)
- * 2. Merge Sort     –  por fecha ASC        O(n log n)
- * 3. Shell Sort     –  por remitente ASC    O(n log² n)
- * 4. Counting Sort  –  por longitud ASC     O(n + m)
- * ============================================================ */
+// mod1_ordenamiento.c - Modulo 1: Carga y ordenamiento
+// Estrategias: Counting Sort (prioridad), Merge Sort (fecha), Shell Sort (remitente), Counting Sort (longitud)
 
-/* Elimina el salto de línea al final de una cadena */
+// Elimina el salto de linea al final del string
 void limpiar_salto_linea(char *str) {
     int len = strlen(str);
     while (len > 0 && (str[len-1] == '\n' || str[len-1] == '\r')) {
@@ -21,18 +14,14 @@ void limpiar_salto_linea(char *str) {
     }
 }
 
-/* Convierte la cadena de texto de prioridad al enum correspondiente */
+// Pasa el string de prioridad a enum
 static Prioridad parsear_prioridad(const char *str) {
     if (strcmp(str, "baja")  == 0) return PRIORIDAD_BAJA;
     if (strcmp(str, "media") == 0) return PRIORIDAD_MEDIA;
     return PRIORIDAD_ALTA;
 }
 
-/* ----------------------------------------------------------
- * cargar_datos
- * Lee los tres archivos de datos y rellena las estructuras.
- * Retorna el número de mensajes cargados.
- * ---------------------------------------------------------- */
+// Lee los txt y llena las estructuras, retorna el total de mensajes
 int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
                  char diccionario[][50], int* total_diccionario) {
 
@@ -40,43 +29,43 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     *total_claves      = 0;
     *total_diccionario = 0;
 
-    /* 1. Mensajes cifrados */
+    // 1. Mensajes cifrados
     FILE *file = fopen("Cryptonituv_DB/mensajes_cifrados.txt", "r"); 
-    if (!file) file = fopen("Cryptonituv_DB/mensajes.txt", "r");  /* nombre alternativo */
+    if (!file) file = fopen("Cryptonituv_DB/mensajes.txt", "r");  // nombre alternativo
+    
     if (file) {
         char linea[2500];
-        /* Leer la primera línea para omitir los encabezados (si existen) 
-           Nota: Puedes comentar o borrar este fgets si tus archivos NO tienen encabezado */
+        // Saltar primera linea si hay encabezado
         // fgets(linea, sizeof(linea), file); 
 
         while (fgets(linea, sizeof(linea), file) && total_mensajes < MAX_MENSAJES) {
             Mensaje *m = &db_mensajes[total_mensajes];
 
-            /* CORRECCIÓN: Leer el ID primero */
+            // Leer ID
             char *tok = strtok(linea, "|");
             if (tok) m->id = atoi(tok);
 
-            /* Remitente */
+            // Remitente
             tok = strtok(NULL, "|");
             if (tok) strncpy(m->remitente, tok, 49);
 
-            /* Prioridad */
+            // Prioridad
             tok = strtok(NULL, "|");
             if (tok) m->prioridad = parsear_prioridad(tok);
 
-            /* Fecha */
+            // Fecha
             tok = strtok(NULL, "|");
             if (tok) strncpy(m->fecha, tok, 14);
 
-            /* ID de clave */
+            // ID clave
             tok = strtok(NULL, "|");
             if (tok) strncpy(m->clave_id, tok, 9);
 
-            /* Texto Original */
+            // Texto original
             tok = strtok(NULL, "|");
             if (tok) strncpy(m->texto_original, tok, 1023);
 
-            /* Texto Cifrado */
+            // Texto cifrado
             tok = strtok(NULL, "|");
             if (tok) {
                 strncpy(m->texto_cifrado, tok, 1023);
@@ -88,23 +77,25 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
         fclose(file);
     }
 
-    /* 2. Claves de sustitución */
+    // 2. Claves de sustitucion
     FILE *fclaves = fopen("Cryptonituv_DB/claves.txt", "r");
     if (fclaves) {
         char linea[1024];
         while (fgets(linea, sizeof(linea), fclaves) && *total_claves < MAX_CLAVES) {
             Clave *c = &db_claves[*total_claves];
-            char *t = strtok(linea, "|"); //Clave id
+            
+            char *t = strtok(linea, "|"); // ID
             if (t){
-                strncpy(c->id,t, 9);
+                strncpy(c->id, t, 9);
                 c->id[9] = '\0';
             }
-            t = strtok(NULL, "|"); //Nombre
-            t = strtok(NULL, "|"); //Tipo
-            t = strtok(NULL, "|"); //Alfabeto
+            t = strtok(NULL, "|"); // Nombre
+            t = strtok(NULL, "|"); // Tipo
+            t = strtok(NULL, "|"); // Alfabeto original
             
             if (t) strncpy(c->alfabeto_original, t, 255);
-            t = strtok(NULL, "|"); //tabla sustitucion
+            
+            t = strtok(NULL, "|"); // Tabla sustitucion
             if (t) {
                 strncpy(c->alfabeto_cifrado, t, 255);
                 limpiar_salto_linea(c->alfabeto_cifrado);
@@ -114,7 +105,7 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
         fclose(fclaves);
     }
 
-    /* 3. Diccionario de palabras frecuentes (Módulo 3) */
+    // 3. Diccionario de palabras
     FILE *fdict = fopen("Cryptonituv_DB/palabras_frecuentes.txt", "r");
     if (fdict) {
         char linea[100];
@@ -131,17 +122,16 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     return total_mensajes;
 }
 
-/* ----------------------------------------------------------
- * m1_imprimir_mensajes
- * Muestra los primeros `cantidad` mensajes con sus campos clave.
- * ---------------------------------------------------------- */
+// Muestra N mensajes con sus campos principales
 void m1_imprimir_mensajes(Mensaje* db_mensajes, int total_mensajes, int cantidad) {
     if (cantidad > total_mensajes) cantidad = total_mensajes;
     const char *prio_str[] = {"baja", "media", "alta"};
+    
     printf("\n%-5s %-20s %-8s %-12s %-8s %s\n",
            "ID", "Remitente", "Prioridad", "Fecha", "Clave", "Longitud");
     printf("%-5s %-20s %-8s %-12s %-8s %s\n",
            "---", "-------------------", "--------", "-----------", "-------", "--------");
+           
     for (int i = 0; i < cantidad; i++) {
         printf("%-5d %-20s %-8s %-12s %-8s %d\n",
                db_mensajes[i].id,
@@ -153,32 +143,23 @@ void m1_imprimir_mensajes(Mensaje* db_mensajes, int total_mensajes, int cantidad
     }
 }
 
-/* ----------------------------------------------------------
- * m1_ordenar_prioridad_desc  –  Counting Sort  O(n + m)
- *
- * m = 3 categorías de prioridad (baja=0, media=1, alta=2).
- * Construye el arreglo de salida en orden alta → media → baja.
- * No usa comparaciones generales; solo cuenta y redistribuye.
- * ---------------------------------------------------------- */
+// Counting Sort por prioridad DESC: alta -> media -> baja
 void m1_ordenar_prioridad_desc(Mensaje* db_mensajes, int total_mensajes) {
     Mensaje *salida = (Mensaje *)malloc(total_mensajes * sizeof(Mensaje));
     if (!salida) { printf("Error: memoria insuficiente.\n"); return; }
 
-    /* Paso 1: contar mensajes por prioridad */
+    // 1: contar por prioridad
     int conteo[3] = {0, 0, 0};
     for (int i = 0; i < total_mensajes; i++)
         conteo[db_mensajes[i].prioridad]++;
 
-    /* Paso 2: convertir a posiciones de inicio (orden desc: alta primero)
-     * alta  empieza en 0
-     * media empieza en conteo[alta]
-     * baja  empieza en conteo[alta] + conteo[media]            */
+    // 2: posiciones de inicio (alta primero)
     int pos[3];
     pos[2] = 0;
     pos[1] = conteo[2];
     pos[0] = conteo[2] + conteo[1];
 
-    /* Paso 3: distribuir manteniendo estabilidad */
+    // 3: distribuir manteniendo estabilidad
     for (int i = 0; i < total_mensajes; i++) {
         int p = db_mensajes[i].prioridad;
         salida[pos[p]++] = db_mensajes[i];
@@ -186,12 +167,10 @@ void m1_ordenar_prioridad_desc(Mensaje* db_mensajes, int total_mensajes) {
 
     for (int i = 0; i < total_mensajes; i++) db_mensajes[i] = salida[i];
     free(salida);
-    printf("Ordenado por Prioridad DESC (Counting Sort O(n+m)) completado.\n");
+    printf("Ordenado por Prioridad DESC completado.\n");
 }
 
-/* ----------------------------------------------------------
- * merge_fechas  –  función auxiliar de Merge Sort
- * ---------------------------------------------------------- */
+// Auxiliar de Merge Sort
 static void merge_fechas(Mensaje* db, int l, int m, int r) {
     int n1 = m - l + 1, n2 = r - m;
     Mensaje *L = malloc(n1 * sizeof(Mensaje));
@@ -211,13 +190,7 @@ static void merge_fechas(Mensaje* db, int l, int m, int r) {
     free(L); free(R);
 }
 
-/* ----------------------------------------------------------
- * m1_merge_sort_fechas  –  Merge Sort  O(n log n)
- *
- * Divide recursivamente el arreglo a la mitad y combina las
- * mitades ordenadas comparando la cadena de fecha (YYYY-MM-DD)
- * en orden ascendente. strcmp funciona correctamente con ese formato.
- * ---------------------------------------------------------- */
+// Merge Sort recursivo para fechas (YYYY-MM-DD)
 void m1_merge_sort_fechas(Mensaje* db_mensajes, int l, int r) {
     if (l < r) {
         int m = l + (r - l) / 2;
@@ -227,16 +200,9 @@ void m1_merge_sort_fechas(Mensaje* db_mensajes, int l, int r) {
     }
 }
 
-/* ----------------------------------------------------------
- * m1_shell_sort_remitente  –  Shell Sort  O(n log² n) promedio
- *
- * Ordena por nombre de remitente en orden ascendente.
- * Se eligió Shell Sort (distinto a Counting Sort y Merge Sort)
- * para demostrar una tercera estrategia algorítmica. Usa la
- * secuencia de Knuth para los incrementos: 1, 4, 13, 40, ...
- * ---------------------------------------------------------- */
+// Shell Sort por remitente ASC (Knuth)
 void m1_shell_sort_remitente(Mensaje* db_mensajes, int total_mensajes) {
-    /* Calcular el mayor incremento de Knuth <= total_mensajes */
+    // Gap de Knuth
     int gap = 1;
     while (gap < total_mensajes / 3) gap = gap * 3 + 1;
 
@@ -244,7 +210,7 @@ void m1_shell_sort_remitente(Mensaje* db_mensajes, int total_mensajes) {
         for (int i = gap; i < total_mensajes; i++) {
             Mensaje temp = db_mensajes[i];
             int j = i;
-            /* Desplaza elementos mayores hacia la derecha */
+            // Desplazar a la derecha
             while (j >= gap && strcmp(db_mensajes[j - gap].remitente, temp.remitente) > 0) {
                 db_mensajes[j] = db_mensajes[j - gap];
                 j -= gap;
@@ -253,18 +219,12 @@ void m1_shell_sort_remitente(Mensaje* db_mensajes, int total_mensajes) {
         }
         gap /= 3;
     }
-    printf("Ordenado por Remitente ASC (Shell Sort O(n log² n)) completado.\n");
+    printf("Ordenado por Remitente ASC completado.\n");
 }
 
-/* ----------------------------------------------------------
- * m1_ordenar_longitud_asc  –  Counting Sort  O(n + m)
- *
- * m = rango de longitudes de texto cifrado (0 … MAX_LONG).
- * Usa un arreglo de cubetas indexado por longitud para colocar
- * cada mensaje directamente en su posición sin comparaciones.
- * ---------------------------------------------------------- */
+// Counting Sort por longitud ASC
 void m1_ordenar_longitud_asc(Mensaje* db_mensajes, int total_mensajes) {
-    /* Encontrar la longitud máxima para dimensionar las cubetas */
+    // Buscar longitud maxima
     int max_long = 0;
     for (int i = 0; i < total_mensajes; i++)
         if (db_mensajes[i].longitud > max_long) max_long = db_mensajes[i].longitud;
@@ -273,13 +233,13 @@ void m1_ordenar_longitud_asc(Mensaje* db_mensajes, int total_mensajes) {
     Mensaje *salida = malloc(total_mensajes * sizeof(Mensaje));
     if (!conteo || !salida) { free(conteo); free(salida); return; }
 
-    /* Contar frecuencias de cada longitud */
+    // Contar frecuencias
     for (int i = 0; i < total_mensajes; i++) conteo[db_mensajes[i].longitud]++;
 
-    /* Acumular para obtener posiciones de inicio */
+    // Acumular posiciones
     for (int i = 1; i <= max_long; i++) conteo[i] += conteo[i - 1];
 
-    /* Colocar en el arreglo de salida (recorrido inverso para estabilidad) */
+    // Recorrido inverso para guardar orden (estabilidad)
     for (int i = total_mensajes - 1; i >= 0; i--) {
         int lon = db_mensajes[i].longitud;
         salida[conteo[lon] - 1] = db_mensajes[i];
@@ -288,5 +248,5 @@ void m1_ordenar_longitud_asc(Mensaje* db_mensajes, int total_mensajes) {
 
     for (int i = 0; i < total_mensajes; i++) db_mensajes[i] = salida[i];
     free(conteo); free(salida);
-    printf("Ordenado por Longitud ASC (Counting Sort O(n+m)) completado.\n");
+    printf("Ordenado por Longitud ASC completado.\n");
 }

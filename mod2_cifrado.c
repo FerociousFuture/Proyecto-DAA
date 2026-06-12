@@ -4,30 +4,22 @@
 #include <ctype.h>
 #include "modulos.h"
 
-/* ============================================================
- * mod2_cifrado.c  –  Módulo 2: Cifrado y Descifrado
- *
- * Requisito: Complejidad O(L), donde L es la longitud del texto.
- * Estrategia: 
- * - Cifrado: Mapeo directo indexando con el valor ASCII del carácter.
- * - Descifrado: Construcción de una tabla inversa O(k) y mapeo directo O(1).
- * ============================================================ */
+// mod2_cifrado.c - Modulo 2: Cifrado y Descifrado
+// Complejidad O(L). Cifrado por mapeo directo ASCII. Descifrado con tabla inversa.
 
 void m2_procesar_texto(const char* input, char* output, Clave clave, int descifrar, int *pos) {
     int i;
     
     if (!descifrar) {
-        /* --------------------------------------------------------
-         * CASO 1: CIFRAR
-         * -------------------------------------------------------- */
+        // ---- CIFRAR ----
         char tabla_cifrado[26];
         
-        // Inicializar mapeo base de la 'a' a la 'z'
+        // Mapeo base de la 'a' a la 'z'
         for (i = 0; i < 26; i++) {
             tabla_cifrado[i] = 'a' + i;
         }
         
-        // Cargar alfabeto de sustitución
+        // Cargar alfabeto de sustitucion
         for (i = 0; clave.alfabeto_original[i] != '\0' && clave.alfabeto_cifrado[i] != '\0'; i++) {
             char orig = tolower((unsigned char)clave.alfabeto_original[i]);
             if (orig >= 'a' && orig <= 'z') {
@@ -40,21 +32,19 @@ void m2_procesar_texto(const char* input, char* output, Clave clave, int descifr
             char c = input[i];
             if (c >= 'a' && c <= 'z') {
                 output[i] = tabla_cifrado[c - 'a'];
-                pos[i] = 1; /* Marcamos que esta posición SÍ se transformó */
+                pos[i] = 1; // Marca si la posicion se transformo
             } else {
                 output[i] = c;
-                pos[i] = 0; /* Marcamos que se conservó intacto (espacios, ?, :, números) */
+                pos[i] = 0; // Se conserva intacto (espacios, numeros, etc)
             }
         }
         output[i] = '\0';
         
     } else {
-        /* --------------------------------------------------------
-         * CASO 2: DESCIFRAR
-         * -------------------------------------------------------- */
+        // ---- DESCIFRAR ----
         char tabla_inversa[256];
         
-        // Construimos una tabla inversa indexada por el ASCII del símbolo cifrado
+        // Tabla inversa indexada por el ASCII del simbolo cifrado
         for (i = 0; clave.alfabeto_original[i] != '\0' && clave.alfabeto_cifrado[i] != '\0'; i++) {
             char orig = tolower((unsigned char)clave.alfabeto_original[i]);
             if (orig >= 'a' && orig <= 'z') {
@@ -63,15 +53,15 @@ void m2_procesar_texto(const char* input, char* output, Clave clave, int descifr
             }
         }
         
-        // Descifrar guiándonos ESTRICTAMENTE por lo que registramos en 'pos'
+        // Descifrar guiandonos por el registro en 'pos'
         for (i = 0; input[i] != '\0'; i++) {
             unsigned char c = (unsigned char)input[i];
             
-            /* SÓLO revertimos si 'pos' dice que esta posición fue mutada al cifrar */
+            // Solo revertimos si 'pos' indica que muto al cifrar
             if (pos[i] == 1) {
                 output[i] = tabla_inversa[c];
             } else {
-                output[i] = input[i]; /* Pasa el carácter tal cual (evitando falsos positivos) */
+                output[i] = input[i]; // Pasa el caracter tal cual
             }
         }
         output[i] = '\0';

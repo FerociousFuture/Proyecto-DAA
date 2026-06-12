@@ -1,77 +1,57 @@
 #ifndef MODULOS_H
 #define MODULOS_H
 
-/* ============================================================
- * modulos.h  –  Declaraciones públicas de todos los módulos
- * Sistema Cryptonituv
- * ============================================================ */
+// modulos.h - Declaraciones publicas de todos los modulos
+// Sistema Cryptonituv
 
 #include "estructuras.h"
 
-/* ---------- Utilidades compartidas ---------- */
+// Utilidades
 void limpiar_salto_linea(char *str);
 
-/* ---------- Módulo 1: Ordenamiento ---------- */
+// ---- Modulo 1: Ordenamiento ----
 
-/*
- * Carga mensajes, claves y diccionario desde los archivos de datos.
- * Retorna el número de mensajes leídos.
- */
+// Carga datos desde archivos. Retorna total de mensajes.
 int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
                  char diccionario[][50], int* total_diccionario);
 
-/* Counting Sort por prioridad descendente  –  O(n + m)  */
+// Counting Sort (prioridad DESC)
 void m1_ordenar_prioridad_desc(Mensaje* db_mensajes, int total_mensajes);
 
-/* Merge Sort por fecha ascendente           –  O(n log n) */
+// Merge Sort (fecha ASC)
 void m1_merge_sort_fechas(Mensaje* db_mensajes, int l, int r);
 
-/* Shell Sort por remitente ascendente       –  O(n log² n) promedio */
+// Shell Sort (remitente ASC)
 void m1_shell_sort_remitente(Mensaje* db_mensajes, int total_mensajes);
 
-/* Counting Sort por longitud de texto cifrado ascendente  –  O(n + m) */
+// Counting Sort (longitud ASC)
 void m1_ordenar_longitud_asc(Mensaje* db_mensajes, int total_mensajes);
 
-/* Imprime los primeros `cantidad` mensajes de la lista actual */
+// Imprime N mensajes
 void m1_imprimir_mensajes(Mensaje* db_mensajes, int total_mensajes, int cantidad);
 
-/* ---------- Módulo 2: Cifrado y Descifrado ---------- */
+// ---- Modulo 2: Cifrado ----
 
-/*
- * Cifra o descifra `input` usando la tabla de sustitución `clave`.
- * descifrar = 0 → cifrar  |  descifrar = 1 → descifrar
- * Complejidad: O(L)
- */
+// Cifra o descifra (0=cifrar, 1=descifrar)
 void m2_procesar_texto(const char* input, char* output, Clave clave, int descifrar, int *pos);
 
-/* ---------- Módulo 3: Análisis de Frecuencias ---------- */
+// ---- Modulo 3: Frecuencias ----
 
-/* Muestra el top-5 de letras más frecuentes del texto  –  O(L + k log k) */
+// Top 5 de letras
 void m3_analisis_frecuencia(const char* texto);
 
-/*
- * Propone candidatas del diccionario cuyo patrón estructural coincide
- * con la palabra cifrada  –  O(p) donde p = tamaño del diccionario
- */
-void m3_deducir_palabra(const char* palabra_cifrada,
-                        char diccionario[][50], int total_diccionario);
+// Propone candidatas por patron estructural
+void m3_deducir_palabra(const char* palabra_cifrada, char diccionario[][50], int total_diccionario);
 
-/* ---------- Módulo 4: Top 10 Palabras ---------- */
+// ---- Modulo 4: Top 10 ----
 
-/*
- * Identifica las 10 palabras presentes en más mensajes distintos.
- * Complejidad: O(T + w log w)
- */
+// Top 10 palabras en mas mensajes distintos
 void m4_top_10_palabras(Mensaje* db_mensajes, int total_mensajes);
 
-/* ---------- Módulo 5: Búsqueda ---------- */
+// ---- Modulo 5: Busqueda ----
 
-/*
- * Busca una palabra en todos los mensajes y muestra cuántos la contienen,
- * junto con sus equivalentes cifrados por clave.
- * Complejidad: O(T + q)
- */
+// Busca palabra, cuenta e imprime equivalencias cifradas
 void m5_buscar_palabra(const char* objetivo, Mensaje* db_mensajes,
                        int total_mensajes, Clave* db_claves, int total_claves);
 
-#endif /* MODULOS_H */
+#endif
