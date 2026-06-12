@@ -2,7 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 #include "modulos.h"
-
+#include "mod1_ordenamiento.c"
+#include "mod2_cifrado.c"
+#include "mod3_frecuencias.c"
+#include "mod4_top10.c"
+#include "mod5_busqueda.c"
 // main.c - Sistema Cryptonituv
 // Punto de entrada: carga datos y muestra el menu principal
 

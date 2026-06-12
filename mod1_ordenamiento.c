@@ -30,8 +30,8 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     *total_diccionario = 0;
 
     // 1. Mensajes cifrados
-    FILE *file = fopen("Cryptonituv_DB/mensajes_cifrados.txt", "r"); 
-    if (!file) file = fopen("Cryptonituv_DB/mensajes.txt", "r");  // nombre alternativo
+    FILE *file = fopen("../Cryptonituv_DB/mensajes_cifrados.txt", "r"); 
+    if (!file) file = fopen("../Cryptonituv_DB/mensajes.txt", "r");  // nombre alternativo
     
     if (file) {
         char linea[2500];
@@ -78,7 +78,7 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     }
 
     // 2. Claves de sustitucion
-    FILE *fclaves = fopen("Cryptonituv_DB/claves.txt", "r");
+    FILE *fclaves = fopen("../Cryptonituv_DB/claves.txt", "r");
     if (fclaves) {
         char linea[1024];
         while (fgets(linea, sizeof(linea), fclaves) && *total_claves < MAX_CLAVES) {
@@ -106,7 +106,7 @@ int cargar_datos(Mensaje* db_mensajes, Clave* db_claves, int* total_claves,
     }
 
     // 3. Diccionario de palabras
-    FILE *fdict = fopen("Cryptonituv_DB/palabras_frecuentes.txt", "r");
+    FILE *fdict = fopen("../Cryptonituv_DB/palabras_frecuentes.txt", "r");
     if (fdict) {
         char linea[100];
         while (fgets(linea, sizeof(linea), fdict) && *total_diccionario < MAX_PALABRAS_DICT) {
